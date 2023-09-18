@@ -1,3 +1,2 @@
-﻿# calculadoraLogica
-
+﻿# Calculadora
 Calculadora Lógica 
